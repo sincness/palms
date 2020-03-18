@@ -1,2 +1,2 @@
 # palms
-🌴 Social Application
+Automation Application 🌴
